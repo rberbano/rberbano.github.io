@@ -15,6 +15,7 @@ summary: My team of 3 (Team Small Mouse) worked together to create a robotic mou
 ---
 
 <div class="ui small rounded images">
+   <img class="ui image" src="../images/Micromouse1.png">
   <img class="ui image" src="../images/micromouse.jpg">
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
