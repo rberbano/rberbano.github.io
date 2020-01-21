@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/Micromouse1.HEIC
 title: Micromouse
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
@@ -10,12 +10,13 @@ labels:
   - Robotics
   - Arduino
   - C++
+  - PCB
 summary: My team of 3 (Team Small Mouse) worked together to create a robotic mouse to solve a maze on its own integrating both hardware and software applications.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
+  <img class="ui image" src="../images/Micromouse2.HEIC">
+  <img class="ui image" src="../images/Maze.PNG">
   <img class="ui image" src="../images/micromouse.jpg">
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
