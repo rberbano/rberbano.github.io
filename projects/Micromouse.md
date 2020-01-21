@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Micromouse1.png
+image: images/TSM.png
 title: Micromouse
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
@@ -26,8 +26,9 @@ Within this project, I mainly worked with the software side of development speci
 
 This is some of the hardware design we had:
 <div class="ui small rounded images">
-  
-<div>
+  <img class="ui image" src="../images/HardwareDesign1.png">
+  <img class="ui image" src="../images/ChassisDesign1.png">
+</div>
 Here is some code that illustrates how we read values from the line sensors:
 
 ```js
