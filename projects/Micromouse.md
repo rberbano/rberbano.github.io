@@ -17,7 +17,6 @@ summary: My team of 3 (Team Small Mouse) worked together to create a robotic mou
 <div class="ui small rounded images">
    <img class="ui image" src="../images/Micromouse1.png">
   <img class="ui image" src="../images/Micromouse2.png">
-  <img class="ui image" src="../images/Maze.png">
 </div>
 
 Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided. Through the use of engineer design process and various hardware and software implementations such as circuit boards, pcbs, sensors, and more. The mouse will be able to track its own location within the maze and find its way back to the starting location without any bare to minimal collisions within the shortest time possible.
@@ -29,19 +28,6 @@ This is some of the hardware design we had:
   <img class="ui image" src="../images/HardwareDesign1.png">
   <img class="ui image" src="../images/ChassisDesign1.png">
 </div>
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
 
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
