@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Javascript_much_fun
+title: Javascript Much Fun
 # All dates must be YYYY-MM-DD format!
 date: 2012-01-22
 labels:
