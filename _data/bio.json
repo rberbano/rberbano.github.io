@@ -6,7 +6,7 @@
     "email": "rberbano@hawaii.edu",
     "phone": "808-781-7794",
     "website": "https://rberbano.github.io",
-    "summary": "I am currently majoring in Electrical engineering at the University of Hawaii at Manoa I expect to graduate in Spring, 2021.",
+    "summary": "I am currently majoring in Electrical engineering at the University of Hawaii at Manoa. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "1135 B Aikoo Place",
       "postalCode": "96782",
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "name": "Arduino",
+      "name": "Game Development",
       "keywords": [
       ]
     },
