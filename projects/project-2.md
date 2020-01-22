@@ -2,24 +2,21 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: Electronic Racquetball
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-12-12
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - C++
+  - DE2 Boards
+  - Block Diagrams
+  - VHDL
+summary: Through a modular approach, as a team we have created a game of an electronic version of racquetball through the use of C++ and programming them onto the Altera DE2 Boards.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Racquetball is composed of 3 different main modules known as Racquetball 0,1,2 respectively. The first version is a simplfied singler player game, while the 2nd and third version are more comlplex and recquires two players to play. Each game consists of the use of LED lights in order to signal where the racquetball current location is and indicates whoes turn it is to swing. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+As the leader for the project I took part in each of the modules as most of them were very dependent upon each other. We did encounter a lot of problems and debugging overall but was able to complete most of the project given some complications we had over the course of working on this project. This project has really helped me gain a better understanding of how to run things in general as especially given the different types and amount of work provided for the project.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
