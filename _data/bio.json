@@ -54,7 +54,7 @@
         "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
+        "Common Lisp",
       ]
     },
     {
@@ -65,7 +65,7 @@
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
+        "TI LaunchPad",
       ]
     }
   ],
