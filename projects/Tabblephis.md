@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/Cprogramming.png
 title: Tabblephis
 permalink: projects/Tabblephis
 # All dates must be YYYY-MM-DD format!
