@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Electronic Racquetball
-permalink: projects/vacay
+image: images/Led.png
+title: Racquetball
+permalink: projects/Racquetball
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-12
 labels:
