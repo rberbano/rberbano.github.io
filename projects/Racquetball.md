@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Led.png
+image: images/Led.jpg
 title: Racquetball
 permalink: projects/Racquetball
 # All dates must be YYYY-MM-DD format!
