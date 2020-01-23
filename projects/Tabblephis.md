@@ -11,6 +11,8 @@ labels:
 summary: A battleship like game made for a final project for EE 160.
 ---
 
+<img class="ui medium right floated rounded image" src="../images/Tabblephis.png">
+
 This project was made similarly to the real game Battleship except you are versus a computer. As a submarine commander piloting
 your area, your task is to find and locate as many phis(ships) you can with your total of 40 torpedos in a given 6 x 15 cell area. There area total of 6 phis at varying sizes so hitting all of the phis makes nets you a total of 20 maximum points waiting to be collected.
 
