@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Javascript Much Fun
 # All dates must be YYYY-MM-DD format!
-date: 2012-01-22
+date: 2020-01-22
 labels:
   - Javascript
   - Coding
