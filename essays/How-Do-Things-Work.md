@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: How do Things Work
 # All dates must be YYYY-MM-DD format!
-date: 2012-01-21
+date: 2020-01-21
 labels:
   - Software Engineering
   - Electrical Engineering
