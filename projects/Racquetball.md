@@ -14,7 +14,7 @@ labels:
 summary: Through a modular approach, as a team we have created a game of an electronic version of racquetball through the use of C++ and programming them onto the Altera DE2 Boards.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/DE2.png">
 
 Racquetball is composed of 3 different main modules known as Racquetball 0,1,2 respectively. The first version is a simplfied singler player game, while the 2nd and third version are more comlplex and recquires two players to play. Each game plays out
 like regular raxcquetball and consists of the use of LED lights in order to signal where the racquetball current location is and indicates whoes turn it is to swing. 
