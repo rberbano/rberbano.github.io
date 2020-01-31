@@ -11,7 +11,7 @@ labels:
 ---
 
 ### intro title
-good vs bad. why important. add short story 
+Our favorite thig to do when we do not know how to do something is to google the questions to find the answer. Sometimes we do not know what to ask and as a result, our problem is not solved. After every search, we notice that there are other individuals that ask the same question. Suddenly you ask yourself, "what else do I search for to solve my problem?" 
 
 
 ### The Bad
