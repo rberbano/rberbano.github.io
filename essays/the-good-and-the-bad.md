@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: 
+title: The Good And The Bad
 # All dates must be YYYY-MM-DD format!
 date: 2020-30-01
 labels:
