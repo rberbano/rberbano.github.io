@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: The Good And The Bad
 # All dates must be YYYY-MM-DD format!
-date: 2020-30-01
+date: 2020-01-30
 labels:
   - Software Engineering
   - Stack Overflow
