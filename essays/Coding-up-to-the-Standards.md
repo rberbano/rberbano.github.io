@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: How do Things Work
+title: Coding up to the Standards
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-13
 labels:
