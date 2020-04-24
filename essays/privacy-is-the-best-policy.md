@@ -7,7 +7,7 @@ date: 2020-04-23
 labels:
   - Ethics
   - Software Engineer Ethics
-  - 
+  - Privacy
 ---
 
 ### Ethics
