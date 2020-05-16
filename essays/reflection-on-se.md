@@ -1,3 +1,16 @@
+---
+layout: essay
+type: essay
+title: The Struggle is Real
+# All dates must be YYYY-MM-DD format!
+date: 2020-05-15
+labels:
+  - Coding Style
+  - Software Engineer
+  - UI Frameworks
+  - Design Patterns
+---
+
 ## Coding Life
 Javascript is a great programming language for software engineers because it is a scripting language, which focuses more on code that controls the software application. Javascript can be used with a variety of applications, like cell phone applications and websites. I learned that there are a lot of things that can go into coding, like design patterns. These design patterns are solutions to problems that may occur over and over again, like bugs or errors that may occur in code. From design patterns, I learned that no matter how hard the errors can be, there is always multiple steps I can take to defeat them. 
  
